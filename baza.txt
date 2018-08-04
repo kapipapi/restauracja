@@ -1,0 +1,6 @@
+Pizza 18
+Pomidorowa 10
+Woda 5
+Coca-cola 20
+Żubrówka 15
+Makaron 20
